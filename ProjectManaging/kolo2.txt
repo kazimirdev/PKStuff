@@ -1,0 +1,41 @@
+1) W mało skomplikowanych projektach zaleca się stosowanie metody: 
+CPM
+
+2) W jakiej technice sieciowej czasy czynności określa się przez szacowanie: 
+PERT
+
+3) Czynnośći umieszczane na łuku grafu są charakterystyczne dla techniki: 
+CPM
+
+4) Co oznacza czas trwania czaynności modalnej równy zero: 
+Oznacza, że czynność ma zerową długość czasową/może być wykonana natychmiast
+
+5) W metodach zarządzania projektami, graficzną formę drzewa przyjmuje: 
+Twoj
+Ścieżka krytyczna 
+(defenicja (i zdjęcia) drzewa binarnego – https://en.wikipedia.org/wiki/Binary_tree)
+
+6) Wymień i opisz rodzaje ewaluacji według kryterium czasu:
+- EX ANTE (przed rozpoczęciem projektu) 
+- MID-TERM (dokładnie w połowie realizacji projektu) 
+- ON GOING - (w dowolnym czasie trwania projektu)
+- FINAL - (przed zakończeniem projektu) 
+- EX POST - (po zamknięciu projektu)
+  
+7) Wymień czasy występujące w technice PERT: 
+(optimistic time – Najkrótszy Możliwy Termin)
+(realistic/modal time – Prawdopodobny Czas) 
+(pessimistic time – Najpóżniejszy Możliwy Termin) 
+
+8. Czas trwania czynnośći zdeterminowany przez określine zmienne występuje w technice: 
+PERT
+
+9. Wymień jakie rodzaje orientacji przyjmuje WBS:
+Metoda orientacji produktowej - uwzględnia składowe projektu, posługuje się rzeczownikami 
+Metoda orientacji czynnościowej - uwzględnia zakres prac projektowych, posługuje się czasownikami 
+
+10. Wymień etapy zarządzania jakością w projekcie.
+-Planowanie jakości: określenie standardów, metod i opracowanie planu jakości
+-zapenianie jakości: działania zgodnie z planem jakości w celu monitorowania/kontrolowania
+-Kontrola jakości: ocena rezultatów projektu w celu potwierdzenia standardów
+-Poprawa jakości: wdrażanie działań mających na celu poprawenia ewentualnych błędów

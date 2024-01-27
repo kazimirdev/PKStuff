@@ -1,0 +1,11 @@
+Spis Treści:
+
+1)Statystyka - podstawowe pojęcia.pptx
+2)Miary średnie klasyczne i pozycyjne.pptx
+3)Miary zróżnicowania.pptx
+4)Miary asymetrii i koncentracji.pptx
+5)Mierniki współzależności.pptx
+6)Analiza regresji.pptx
+7)Modele ze zmienną czasową.pptx
+8)Sezonowość.pptx
+9)Dynamika zjawisk.pptx

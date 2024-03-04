@@ -1,0 +1,23 @@
+ To calculate the fluctuations in GDP changes of all analyzed categories in LibreOffice, you can follow these steps:
+
+    Open LibreOffice Calc, and create a new spreadsheet.
+
+    Enter the data for the different categories and their corresponding GDP values in separate columns.
+
+    Calculate the percentage change in GDP for each category between two consecutive periods, using the formula:
+
+    ((New Value - Old Value) / Old Value) * 100
+
+    For example, if the GDP for a category was  in period 1 and  in period 2, the percentage change in GDP would be:
+
+    ((120 - 100) / 100) * 100 = 20%
+
+    Repeat step 3 for each category and period combination, filling in the appropriate formula for each cell in the spreadsheet.
+
+    Use the AVERAGE function to calculate the average percentage change in GDP for each category over the entire period analyzed. For example, if you have data for five periods, you would use the AVERAGE function to calculate the average percentage change for each category across all five periods.
+
+    Use the STDEV function to calculate the standard deviation of the percentage changes in GDP for each category. This will give you a measure of the volatility or fluctuations in GDP changes for each category.
+
+    Analyze the data to identify any patterns or trends in the fluctuations in GDP changes for each category.
+
+Note: These steps assume that you have already collected and entered the data for the different categories and their corresponding GDP values into the LibreOffice Calc spreadsheet. 
